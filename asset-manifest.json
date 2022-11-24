@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mdm-nc/test-app/static/css/main.073c9b0a.css",
-    "main.js": "/mdm-nc/test-app/static/js/main.bf54b6ca.js",
-    "static/js/787.d6cb1aba.chunk.js": "/mdm-nc/test-app/static/js/787.d6cb1aba.chunk.js",
-    "static/media/logo.svg": "/mdm-nc/test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mdm-nc/test-app/index.html",
-    "main.073c9b0a.css.map": "/mdm-nc/test-app/static/css/main.073c9b0a.css.map",
-    "main.bf54b6ca.js.map": "/mdm-nc/test-app/static/js/main.bf54b6ca.js.map",
-    "787.d6cb1aba.chunk.js.map": "/mdm-nc/test-app/static/js/787.d6cb1aba.chunk.js.map"
+    "main.css": "/test-app/static/css/main.073c9b0a.css",
+    "main.js": "/test-app/static/js/main.815f8905.js",
+    "static/js/787.d6cb1aba.chunk.js": "/test-app/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-app/index.html",
+    "main.073c9b0a.css.map": "/test-app/static/css/main.073c9b0a.css.map",
+    "main.815f8905.js.map": "/test-app/static/js/main.815f8905.js.map",
+    "787.d6cb1aba.chunk.js.map": "/test-app/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bf54b6ca.js"
+    "static/js/main.815f8905.js"
   ]
 }
